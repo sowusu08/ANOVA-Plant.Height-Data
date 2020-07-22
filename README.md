@@ -1,2 +1,2 @@
 # ANOVA-Plant.Height-Data
-Data for learn quiz of ANOVA app (summer 2020)
+Data for learnr quiz of ANOVA app (summer 2020)
