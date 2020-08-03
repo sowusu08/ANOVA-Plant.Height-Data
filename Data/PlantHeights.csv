@@ -1,451 +1,451 @@
 "","Location","Treatment","Value"
-"1","A","Control",-0.501163048593866
-"2","A","Control",0.146914659377666
-"3","A","Control",-0.668502889928038
-"4","A","Control",1.27622464171023
-"5","A","Control",0.263606217452288
-"6","A","Control",-0.656374707294412
-"7","A","Control",0.389943241942788
-"8","A","Control",0.590659764103374
-"9","A","Control",0.460625081322794
-"10","A","Control",-0.244310709725085
-"11","A","Control",1.20942493476068
-"12","A","Control",0.311874589129145
-"13","A","Control",-0.496992464433443
-"14","A","Control",-1.771759909742
-"15","A","Control",0.899944734514487
-"16","A","Control",-0.0359468872121847
-"17","A","Control",-0.0129522104791569
-"18","A","Control",0.755068968548239
-"19","A","Control",0.656976956078471
-"20","A","Control",0.475121056974007
-"21","A","Control",0.735181897286575
-"22","A","Control",0.625709040584854
-"23","A","Control",0.0596519866921525
-"24","A","Control",-1.5914813566907
-"25","A","Control",0.495860598315768
-"26","A","Control",-0.0449029916232006
-"27","A","Control",-0.124636405364263
-"28","A","Control",-1.17660190711942
-"29","A","Control",-0.382520044086896
-"30","A","Control",0.334353248159762
-"31","A","Control",1.08694364122324
-"32","A","Control",-0.0822301818743964
-"33","A","Control",0.310137289247495
-"34","A","Control",-0.0430440324663241
-"35","A","Control",-1.10164764546289
-"36","A","Control",-0.331995650639744
-"37","A","Control",-0.315431962968279
-"38","A","Control",-0.0474507173689485
-"39","A","Control",0.880020297587107
-"40","A","Control",0.610540598766035
-"41","A","Control",-0.13161887700287
-"42","A","Control",-0.202689344109206
-"43","A","Control",0.55757070032379
-"44","A","Control",0.445330558938926
-"45","A","Control",-0.551004555639616
-"46","A","Control",-0.565996125569696
-"47","A","Control",0.291665569709464
-"48","A","Control",0.614826339612333
-"49","A","Control",-0.0898769697201824
-"50","A","Control",0.704886181163372
-"51","A","Treatment 1",0.326446821900996
-"52","A","Treatment 1",-0.501861642465632
-"53","A","Treatment 1",0.279718146968028
-"54","A","Treatment 1",-0.92607773878625
-"55","A","Treatment 1",1.17507943539485
-"56","A","Treatment 1",1.62392791677481
-"57","A","Treatment 1",-0.301121610702537
-"58","A","Treatment 1",-0.856190393579555
-"59","A","Treatment 1",0.467170094502779
-"60","A","Treatment 1",-0.110744775182276
-"61","A","Treatment 1",1.96932656361392
-"62","A","Treatment 1",-0.0321768022411988
-"63","A","Treatment 1",0.565586277209637
-"64","A","Treatment 1",0.0229617702001462
-"65","A","Treatment 1",-0.609484031283572
-"66","A","Treatment 1",0.154809685601761
-"67","A","Treatment 1",-1.48006607569065
-"68","A","Treatment 1",1.20175498648157
-"69","A","Treatment 1",0.125667737333756
-"70","A","Treatment 1",1.78154156969697
-"71","A","Treatment 1",0.389917813697723
-"72","A","Treatment 1",-0.582156073355888
-"73","A","Treatment 1",0.500795609861025
-"74","A","Treatment 1",-0.765960057948286
-"75","A","Treatment 1",-1.02797938819606
-"76","A","Treatment 1",0.23898591312432
-"77","A","Treatment 1",-0.363499336039115
-"78","A","Treatment 1",0.000906388337931787
-"79","A","Treatment 1",0.0609598858043645
-"80","A","Treatment 1",-0.483407175874219
-"81","A","Treatment 1",-0.466308360911172
-"82","A","Treatment 1",-0.110846464401542
-"83","A","Treatment 1",0.966031337190028
-"84","A","Treatment 1",-1.2493247763524
-"85","A","Treatment 1",0.487035873855306
-"86","A","Treatment 1",0.273019304395085
-"87","A","Treatment 1",0.871741866566617
-"88","A","Treatment 1",-0.249430817380127
-"89","A","Treatment 1",0.303415424131356
-"90","A","Treatment 1",0.219021008433229
-"91","A","Treatment 1",-0.444866425413153
-"92","A","Treatment 1",0.990451600906201
-"93","A","Treatment 1",0.95153014486986
-"94","A","Treatment 1",0.574175192602299
-"95","A","Treatment 1",1.30120343272349
-"96","A","Treatment 1",0.457958868963549
-"97","A","Treatment 1",-1.04680561093559
-"98","A","Treatment 1",-0.470077639674247
-"99","A","Treatment 1",-1.00418234421665
-"100","A","Treatment 1",-0.388188521880235
-"101","A","Treatment 2",-0.607959343679642
-"102","A","Treatment 2",0.0412735556813505
-"103","A","Treatment 2",-0.892703215581397
-"104","A","Treatment 2",0.154868196955993
-"105","A","Treatment 2",-0.641492951040441
-"106","A","Treatment 2",1.73194152398519
-"107","A","Treatment 2",0.702373326496862
-"108","A","Treatment 2",0.891970744905323
-"109","A","Treatment 2",0.376501650669818
-"110","A","Treatment 2",1.64853255890903
-"111","A","Treatment 2",-0.623021724869998
-"112","A","Treatment 2",-0.452411835753355
-"113","A","Treatment 2",1.40363659377083
-"114","A","Treatment 2",-0.637682426244159
-"115","A","Treatment 2",-0.203233128729926
-"116","A","Treatment 2",-0.384951770853144
-"117","A","Treatment 2",-0.313593011177537
-"118","A","Treatment 2",-0.273531036917028
-"119","A","Treatment 2",0.48430456464247
-"120","A","Treatment 2",-0.173783872624214
-"121","A","Treatment 2",-0.495838312871972
-"122","A","Treatment 2",1.316178048667
-"123","A","Treatment 2",-0.210287820375931
-"124","A","Treatment 2",-0.175965399442519
-"125","A","Treatment 2",-0.0981869263892907
-"126","A","Treatment 2",0.698412980910377
-"127","A","Treatment 2",-0.0720931160437998
-"128","A","Treatment 2",-0.036881488037707
-"129","A","Treatment 2",-0.668027269180544
-"130","A","Treatment 2",-0.317784866801393
-"131","A","Treatment 2",0.0589572316258249
-"132","A","Treatment 2",-0.57711659653447
-"133","A","Treatment 2",0.520866268779921
-"134","A","Treatment 2",-1.48802620015105
-"135","A","Treatment 2",0.30042670357397
-"136","A","Treatment 2",-1.50572082706683
-"137","A","Treatment 2",-0.294956604299878
-"138","A","Treatment 2",-0.517714306356106
-"139","A","Treatment 2",-0.639052885067379
-"140","A","Treatment 2",-0.0557588422904447
-"141","A","Treatment 2",-1.87607223716641
-"142","A","Treatment 2",1.15305164577819
-"143","A","Treatment 2",-1.63167298748776
-"144","A","Treatment 2",-0.454259793442938
-"145","A","Treatment 2",-1.09360170294199
-"146","A","Treatment 2",-0.735802621169579
-"147","A","Treatment 2",2.04542321471578
-"148","A","Treatment 2",0.0170477072993866
-"149","A","Treatment 2",-1.26057451982564
-"150","A","Treatment 2",-1.60779342373021
-"151","B","Control",-0.618871037171237
-"152","B","Control",0.127545937406252
-"153","B","Control",1.09561327853409
-"154","B","Control",-0.779959215229937
-"155","B","Control",-0.0553737120201826
-"156","B","Control",0.0913699962229552
-"157","B","Control",0.488488763197496
-"158","B","Control",-0.16539163667857
-"159","B","Control",1.36928701629052
-"160","B","Control",-0.0957630383625687
-"161","B","Control",0.288179018046863
-"162","B","Control",0.677409416449927
-"163","B","Control",-0.270959795297631
-"164","B","Control",-0.71737159409475
-"165","B","Control",1.22973798261292
-"166","B","Control",-1.59463766837756
-"167","B","Control",0.606237160835672
-"168","B","Control",0.0247066354305059
-"169","B","Control",0.698851797567687
-"170","B","Control",0.298262956632335
-"171","B","Control",1.44266525162191
-"172","B","Control",-0.827948815554271
-"173","B","Control",1.09685035820015
-"174","B","Control",1.34870963313404
-"175","B","Control",0.0034070660114184
-"176","B","Control",-1.69167740761383
-"177","B","Control",0.329293738803396
-"178","B","Control",-0.411625136355668
-"179","B","Control",0.546620256506758
-"180","B","Control",0.19984933002237
-"181","B","Control",0.509867636595866
-"182","B","Control",0.220082676757378
-"183","B","Control",0.742553404130283
-"184","B","Control",-0.19606882713689
-"185","B","Control",-0.535905939046033
-"186","B","Control",-0.411005744097326
-"187","B","Control",-1.19092604761076
-"188","B","Control",-0.622783291036945
-"189","B","Control",-0.385752721281321
-"190","B","Control",-0.170093671460126
-"191","B","Control",-0.264674497617696
-"192","B","Control",-1.35178119086532
-"193","B","Control",-0.58077649149357
-"194","B","Control",1.31344775246987
-"195","B","Control",0.429520811783309
-"196","B","Control",1.37373510055042
-"197","B","Control",-0.210783770140603
-"198","B","Control",-0.0626825222885238
-"199","B","Control",-0.12707140157037
-"200","B","Control",-0.827149758062115
-"201","B","Treatment 1",-0.637098232177553
-"202","B","Treatment 1",1.57038903035574
-"203","B","Treatment 1",-0.427307760540296
-"204","B","Treatment 1",0.9695437890067
-"205","B","Treatment 1",-0.796155196516186
-"206","B","Treatment 1",-1.49406746349997
-"207","B","Treatment 1",-0.245458031257579
-"208","B","Treatment 1",0.711255520374561
-"209","B","Treatment 1",0.865814650077903
-"210","B","Treatment 1",1.27043026316776
-"211","B","Treatment 1",-1.35906407714129
-"212","B","Treatment 1",1.54374431425399
-"213","B","Treatment 1",-0.534389693075353
-"214","B","Treatment 1",0.120205219545693
-"215","B","Treatment 1",0.384738446085347
-"216","B","Treatment 1",-0.623196280268311
-"217","B","Treatment 1",-1.51912371617273
-"218","B","Treatment 1",-0.364262369503247
-"219","B","Treatment 1",0.0639767272849044
-"220","B","Treatment 1",-0.680569824104115
-"221","B","Treatment 1",-0.70016950578588
-"222","B","Treatment 1",0.251141622633639
-"223","B","Treatment 1",-0.107662214791422
-"224","B","Treatment 1",0.330484298742051
-"225","B","Treatment 1",-0.0408291957730598
-"226","B","Treatment 1",-0.689403885451052
-"227","B","Treatment 1",0.990669296640922
-"228","B","Treatment 1",0.586560229410294
-"229","B","Treatment 1",0.799919452433809
-"230","B","Treatment 1",-1.07162913890442
-"231","B","Treatment 1",0.756948288231091
-"232","B","Treatment 1",-1.28878132656806
-"233","B","Treatment 1",-0.405362828335869
-"234","B","Treatment 1",-1.04292478286874
-"235","B","Treatment 1",-1.67801903189153
-"236","B","Treatment 1",1.3848131142527
-"237","B","Treatment 1",-0.496578992222272
-"238","B","Treatment 1",-0.216357726709852
-"239","B","Treatment 1",-0.294081698770148
-"240","B","Treatment 1",0.293888180731015
-"241","B","Treatment 1",1.21629704717004
-"242","B","Treatment 1",1.27767776638278
-"243","B","Treatment 1",-0.899540855052716
-"244","B","Treatment 1",-1.03242751270803
-"245","B","Treatment 1",-1.14962980398796
-"246","B","Treatment 1",-0.952359723520591
-"247","B","Treatment 1",1.48911137863066
-"248","B","Treatment 1",0.0058108628209033
-"249","B","Treatment 1",-0.640387550168121
-"250","B","Treatment 1",-0.456881679915785
-"251","B","Treatment 2",0.838078337002019
-"252","B","Treatment 2",0.203266311371884
-"253","B","Treatment 2",-0.245132144534097
-"254","B","Treatment 2",-0.584711474476801
-"255","B","Treatment 2",-0.672514697154929
-"256","B","Treatment 2",1.59747143637781
-"257","B","Treatment 2",0.733137660538432
-"258","B","Treatment 2",1.56677595041397
-"259","B","Treatment 2",-0.328671386476175
-"260","B","Treatment 2",-0.27365085005533
-"261","B","Treatment 2",-0.80135686650767
-"262","B","Treatment 2",-0.195404918841828
-"263","B","Treatment 2",0.368050383571216
-"264","B","Treatment 2",1.05997306037853
-"265","B","Treatment 2",0.440051510093239
-"266","B","Treatment 2",0.355664470575353
-"267","B","Treatment 2",0.960143857156314
-"268","B","Treatment 2",0.894766741227154
-"269","B","Treatment 2",0.0831464719233855
-"270","B","Treatment 2",-0.610986992466726
-"271","B","Treatment 2",0.968135865120352
-"272","B","Treatment 2",0.108309566900741
-"273","B","Treatment 2",1.33429263882453
-"274","B","Treatment 2",-0.335899960283934
-"275","B","Treatment 2",-0.814499073123106
-"276","B","Treatment 2",0.419312029172812
-"277","B","Treatment 2",-0.522277069977178
-"278","B","Treatment 2",0.498268376921881
-"279","B","Treatment 2",-1.3447120709042
-"280","B","Treatment 2",-1.35909546266591
-"281","B","Treatment 2",0.538047255160735
-"282","B","Treatment 2",0.258151278195304
-"283","B","Treatment 2",0.679432812979483
-"284","B","Treatment 2",-1.57267155412648
-"285","B","Treatment 2",0.945811700738083
-"286","B","Treatment 2",0.936385865081112
-"287","B","Treatment 2",0.805013294229641
-"288","B","Treatment 2",0.613399999818229
-"289","B","Treatment 2",1.64585734074783
-"290","B","Treatment 2",-1.13397168051437
-"291","B","Treatment 2",-0.454821001541907
-"292","B","Treatment 2",0.319584706389238
-"293","B","Treatment 2",-0.629445675623106
-"294","B","Treatment 2",0.0667293438665157
-"295","B","Treatment 2",0.582069671538998
-"296","B","Treatment 2",-0.509864987838246
-"297","B","Treatment 2",0.512542666975528
-"298","B","Treatment 2",0.428929203307573
-"299","B","Treatment 2",-0.629248899577484
-"300","B","Treatment 2",-0.777956179475463
-"301","C","Control",-0.769546732735906
-"302","C","Control",-0.234020578302773
-"303","C","Control",0.207030572993001
-"304","C","Control",-0.921705508732106
-"305","C","Control",0.1566262610291
-"306","C","Control",0.0240991556813052
-"307","C","Control",0.0683341852898174
-"308","C","Control",0.893288170172213
-"309","C","Control",-0.97508593246239
-"310","C","Control",1.01389497767191
-"311","C","Control",-0.595825276908113
-"312","C","Control",-0.904974856668589
-"313","C","Control",-0.573086792026382
-"314","C","Control",0.202121895716972
-"315","C","Control",0.121636565324477
-"316","C","Control",-0.246125143742736
-"317","C","Control",-0.762413864726498
-"318","C","Control",-0.518594249158776
-"319","C","Control",0.979450899424468
-"320","C","Control",0.159849286386376
-"321","C","Control",-0.462786977487977
-"322","C","Control",-0.753840586782031
-"323","C","Control",-0.162982543729596
-"324","C","Control",-1.33317987202413
-"325","C","Control",-0.387564087320793
-"326","C","Control",-0.592858128577276
-"327","C","Control",0.928492623393068
-"328","C","Control",0.809653699947387
-"329","C","Control",-0.0576627792692478
-"330","C","Control",-0.909425838479458
-"331","C","Control",0.720499783186136
-"332","C","Control",0.681416357673777
-"333","C","Control",0.582172139323584
-"334","C","Control",0.589201716550888
-"335","C","Control",-0.281703693556553
-"336","C","Control",0.564412410788411
-"337","C","Control",1.04028639098566
-"338","C","Control",0.0306016113154169
-"339","C","Control",-0.783427015997023
-"340","C","Control",0.635008984698027
-"341","C","Control",0.629205497607559
-"342","C","Control",-0.24837050476744
-"343","C","Control",1.35910787644728
-"344","C","Control",-0.635674966839425
-"345","C","Control",0.278750172944022
-"346","C","Control",-1.81232085881422
-"347","C","Control",-0.129764223222597
-"348","C","Control",0.904691993167111
-"349","C","Control",-0.364436781008366
-"350","C","Control",-0.719333052431098
-"351","C","Treatment 1",0.625081455488874
-"352","C","Treatment 1",-0.696119175604102
-"353","C","Treatment 1",0.2296931997215
-"354","C","Treatment 1",-1.49404679105889
-"355","C","Treatment 1",-1.21382561679563
-"356","C","Treatment 1",-0.390054055029499
-"357","C","Treatment 1",-0.890522496816532
-"358","C","Treatment 1",1.17144288820299
-"359","C","Treatment 1",0.789012793798519
-"360","C","Treatment 1",-0.675222258526076
-"361","C","Treatment 1",0.493225628906648
-"362","C","Treatment 1",0.789648738654484
-"363","C","Treatment 1",0.220407054767723
-"364","C","Treatment 1",0.302691238106311
-"365","C","Treatment 1",1.00993012710221
-"366","C","Treatment 1",-0.413527882748715
-"367","C","Treatment 1",-0.360193561036617
-"368","C","Treatment 1",0.821397010769502
-"369","C","Treatment 1",-1.10854568541517
-"370","C","Treatment 1",0.160129792444537
-"371","C","Treatment 1",-0.0269399316746158
-"372","C","Treatment 1",0.40170368646805
-"373","C","Treatment 1",0.88080999981592
-"374","C","Treatment 1",0.22992826892158
-"375","C","Treatment 1",0.199370448459772
-"376","C","Treatment 1",0.642929519489271
-"377","C","Treatment 1",1.04667891905083
-"378","C","Treatment 1",0.32968817684471
-"379","C","Treatment 1",-0.849725426569226
-"380","C","Treatment 1",-0.134893502769278
-"381","C","Treatment 1",1.49256028597336
-"382","C","Treatment 1",-0.30297654273007
-"383","C","Treatment 1",0.592230437948127
-"384","C","Treatment 1",1.05298924239036
-"385","C","Treatment 1",0.683094820841
-"386","C","Treatment 1",-0.00550606264268715
-"387","C","Treatment 1",0.188469546243612
-"388","C","Treatment 1",-0.762358825864628
-"389","C","Treatment 1",0.378193850579856
-"390","C","Treatment 1",-0.762295185572367
-"391","C","Treatment 1",-0.734283870745276
-"392","C","Treatment 1",-0.851395124443711
-"393","C","Treatment 1",-0.559754853754549
-"394","C","Treatment 1",0.906394128024847
-"395","C","Treatment 1",-0.336155108750514
-"396","C","Treatment 1",-0.0607042985046689
-"397","C","Treatment 1",-0.397363696167459
-"398","C","Treatment 1",0.465181109611625
-"399","C","Treatment 1",0.801206074996791
-"400","C","Treatment 1",-0.179975936879216
-"401","C","Treatment 2",0.512400540231876
-"402","C","Treatment 2",-0.336214335535481
-"403","C","Treatment 2",0.874076123115137
-"404","C","Treatment 2",0.499895924373337
-"405","C","Treatment 2",0.844492776740818
-"406","C","Treatment 2",0.50477887394998
-"407","C","Treatment 2",0.171590876220601
-"408","C","Treatment 2",-1.57511365218903
-"409","C","Treatment 2",-0.566543750292956
-"410","C","Treatment 2",0.399510884822471
-"411","C","Treatment 2",-0.384315761542042
-"412","C","Treatment 2",-0.232185607497414
-"413","C","Treatment 2",-0.343362819977456
-"414","C","Treatment 2",1.34357621242528
-"415","C","Treatment 2",-0.598476240016961
-"416","C","Treatment 2",-0.376067320582314
-"417","C","Treatment 2",0.0118334434737259
-"418","C","Treatment 2",0.179084635592111
-"419","C","Treatment 2",0.156762262093278
-"420","C","Treatment 2",-0.0416232502981377
-"421","C","Treatment 2",-1.24119829449261
-"422","C","Treatment 2",0.305305334851886
-"423","C","Treatment 2",0.429229538405728
-"424","C","Treatment 2",-0.401998435992357
-"425","C","Treatment 2",0.560130161216231
-"426","C","Treatment 2",-0.632832342342615
-"427","C","Treatment 2",0.320441246395678
-"428","C","Treatment 2",-0.551122776053253
-"429","C","Treatment 2",-1.43120568197804
-"430","C","Treatment 2",0.959744835821582
-"431","C","Treatment 2",0.575610469593229
-"432","C","Treatment 2",0.118819775619034
-"433","C","Treatment 2",1.23903525494998
-"434","C","Treatment 2",-1.35468738753472
-"435","C","Treatment 2",0.106112199376624
-"436","C","Treatment 2",-1.99504089351795
-"437","C","Treatment 2",1.19846045212059
-"438","C","Treatment 2",-0.729481231755561
-"439","C","Treatment 2",-1.08434381158899
-"440","C","Treatment 2",-0.728075163847102
-"441","C","Treatment 2",-0.966435781376324
-"442","C","Treatment 2",-1.64534857444596
-"443","C","Treatment 2",-0.821653714936792
-"444","C","Treatment 2",-0.125898218967698
-"445","C","Treatment 2",0.757380636238475
-"446","C","Treatment 2",0.338365940842944
-"447","C","Treatment 2",-1.03101303142019
-"448","C","Treatment 2",-0.533436361869376
-"449","C","Treatment 2",1.60210226172487
-"450","C","Treatment 2",0.340465472131783
+"1","Location A","Control",-0.501163048593866
+"2","Location A","Control",0.146914659377666
+"3","Location A","Control",-0.668502889928038
+"4","Location A","Control",1.27622464171023
+"5","Location A","Control",0.263606217452288
+"6","Location A","Control",-0.656374707294412
+"7","Location A","Control",0.389943241942788
+"8","Location A","Control",0.590659764103374
+"9","Location A","Control",0.460625081322794
+"10","Location A","Control",-0.244310709725085
+"11","Location A","Control",1.20942493476068
+"12","Location A","Control",0.311874589129145
+"13","Location A","Control",-0.496992464433443
+"14","Location A","Control",-1.771759909742
+"15","Location A","Control",0.899944734514487
+"16","Location A","Control",-0.0359468872121847
+"17","Location A","Control",-0.0129522104791569
+"18","Location A","Control",0.755068968548239
+"19","Location A","Control",0.656976956078471
+"20","Location A","Control",0.475121056974007
+"21","Location A","Control",0.735181897286575
+"22","Location A","Control",0.625709040584854
+"23","Location A","Control",0.0596519866921525
+"24","Location A","Control",-1.5914813566907
+"25","Location A","Control",0.495860598315768
+"26","Location A","Control",-0.0449029916232006
+"27","Location A","Control",-0.124636405364263
+"28","Location A","Control",-1.17660190711942
+"29","Location A","Control",-0.382520044086896
+"30","Location A","Control",0.334353248159762
+"31","Location A","Control",1.08694364122324
+"32","Location A","Control",-0.0822301818743964
+"33","Location A","Control",0.310137289247495
+"34","Location A","Control",-0.0430440324663241
+"35","Location A","Control",-1.10164764546289
+"36","Location A","Control",-0.331995650639744
+"37","Location A","Control",-0.315431962968279
+"38","Location A","Control",-0.0474507173689485
+"39","Location A","Control",0.880020297587107
+"40","Location A","Control",0.610540598766035
+"41","Location A","Control",-0.13161887700287
+"42","Location A","Control",-0.202689344109206
+"43","Location A","Control",0.55757070032379
+"44","Location A","Control",0.445330558938926
+"45","Location A","Control",-0.551004555639616
+"46","Location A","Control",-0.565996125569696
+"47","Location A","Control",0.291665569709464
+"48","Location A","Control",0.614826339612333
+"49","Location A","Control",-0.0898769697201824
+"50","Location A","Control",0.704886181163372
+"51","Location A","Treatment 1",0.326446821900996
+"52","Location A","Treatment 1",-0.501861642465632
+"53","Location A","Treatment 1",0.279718146968028
+"54","Location A","Treatment 1",-0.92607773878625
+"55","Location A","Treatment 1",1.17507943539485
+"56","Location A","Treatment 1",1.62392791677481
+"57","Location A","Treatment 1",-0.301121610702537
+"58","Location A","Treatment 1",-0.856190393579555
+"59","Location A","Treatment 1",0.467170094502779
+"60","Location A","Treatment 1",-0.110744775182276
+"61","Location A","Treatment 1",1.96932656361392
+"62","Location A","Treatment 1",-0.0321768022411988
+"63","Location A","Treatment 1",0.565586277209637
+"64","Location A","Treatment 1",0.0229617702001462
+"65","Location A","Treatment 1",-0.609484031283572
+"66","Location A","Treatment 1",0.154809685601761
+"67","Location A","Treatment 1",-1.48006607569065
+"68","Location A","Treatment 1",1.20175498648157
+"69","Location A","Treatment 1",0.125667737333756
+"70","Location A","Treatment 1",1.78154156969697
+"71","Location A","Treatment 1",0.389917813697723
+"72","Location A","Treatment 1",-0.582156073355888
+"73","Location A","Treatment 1",0.500795609861025
+"74","Location A","Treatment 1",-0.765960057948286
+"75","Location A","Treatment 1",-1.02797938819606
+"76","Location A","Treatment 1",0.23898591312432
+"77","Location A","Treatment 1",-0.363499336039115
+"78","Location A","Treatment 1",0.000906388337931787
+"79","Location A","Treatment 1",0.0609598858043645
+"80","Location A","Treatment 1",-0.483407175874219
+"81","Location A","Treatment 1",-0.466308360911172
+"82","Location A","Treatment 1",-0.110846464401542
+"83","Location A","Treatment 1",0.966031337190028
+"84","Location A","Treatment 1",-1.2493247763524
+"85","Location A","Treatment 1",0.487035873855306
+"86","Location A","Treatment 1",0.273019304395085
+"87","Location A","Treatment 1",0.871741866566617
+"88","Location A","Treatment 1",-0.249430817380127
+"89","Location A","Treatment 1",0.303415424131356
+"90","Location A","Treatment 1",0.219021008433229
+"91","Location A","Treatment 1",-0.444866425413153
+"92","Location A","Treatment 1",0.990451600906201
+"93","Location A","Treatment 1",0.95153014486986
+"94","Location A","Treatment 1",0.574175192602299
+"95","Location A","Treatment 1",1.30120343272349
+"96","Location A","Treatment 1",0.457958868963549
+"97","Location A","Treatment 1",-1.04680561093559
+"98","Location A","Treatment 1",-0.470077639674247
+"99","Location A","Treatment 1",-1.00418234421665
+"100","Location A","Treatment 1",-0.388188521880235
+"101","Location A","Treatment 2",-0.514904342096023
+"102","Location A","Treatment 2",0.0349561747097152
+"103","Location A","Treatment 2",-0.75606496829853
+"104","Location A","Treatment 2",0.131163881095382
+"105","Location A","Treatment 2",-0.543305254452619
+"106","Location A","Treatment 2",1.4668484335793
+"107","Location A","Treatment 2",0.594867205094281
+"108","Location A","Treatment 2",0.755444610481039
+"109","Location A","Treatment 2",0.318873846995866
+"110","Location A","Treatment 2",1.39620614683112
+"111","Location A","Treatment 2",-0.527661256777651
+"112","Location A","Treatment 2",-0.38316512619927
+"113","Location A","Treatment 2",1.18879425798958
+"114","Location A","Treatment 2",-0.540077973247604
+"115","Location A","Treatment 2",-0.172126017189631
+"116","Location A","Treatment 2",-0.326030581436847
+"117","Location A","Treatment 2",-0.265594080895261
+"118","Location A","Treatment 2",-0.231664041470544
+"119","Location A","Treatment 2",0.410176314952296
+"120","Location A","Treatment 2",-0.147184300283773
+"121","Location A","Treatment 2",-0.419944693554834
+"122","Location A","Treatment 2",1.11472222489144
+"123","Location A","Treatment 2",-0.178100909093901
+"124","Location A","Treatment 2",-0.149031919936011
+"125","Location A","Treatment 2",-0.0831583152072564
+"126","Location A","Treatment 2",0.591513034852666
+"127","Location A","Treatment 2",-0.0610584554248509
+"128","Location A","Treatment 2",-0.0312363623176498
+"129","Location A","Treatment 2",-0.565778197367195
+"130","Location A","Treatment 2",-0.269144325964445
+"131","Location A","Treatment 2",0.0499331655606476
+"132","Location A","Treatment 2",-0.488782423595521
+"133","Location A","Treatment 2",0.441141839885035
+"134","Location A","Treatment 2",-1.26026708788303
+"135","Location A","Treatment 2",0.254443024455505
+"136","Location A","Treatment 2",-1.2752533535362
+"137","Location A","Treatment 2",-0.249810185274387
+"138","Location A","Treatment 2",-0.438472320689355
+"139","Location A","Treatment 2",-0.541238667965229
+"140","Location A","Treatment 2",-0.0472243256133358
+"141","Location A","Treatment 2",-1.58891832331441
+"142","Location A","Treatment 2",0.976564148975407
+"143","Location A","Treatment 2",-1.38192712205596
+"144","Location A","Treatment 2",-0.38473023322208
+"145","Location A","Treatment 2",-0.926213687185562
+"146","Location A","Treatment 2",-0.623179770990562
+"147","Location A","Treatment 2",1.73234823287153
+"148","Location A","Treatment 2",0.0144383643453989
+"149","Location A","Treatment 2",-1.06762944026049
+"150","Location A","Treatment 2",-1.36170259356742
+"151","Location B","Control",-0.118871037171237
+"152","Location B","Control",0.627545937406252
+"153","Location B","Control",1.59561327853409
+"154","Location B","Control",-0.279959215229937
+"155","Location B","Control",0.444626287979817
+"156","Location B","Control",0.591369996222955
+"157","Location B","Control",0.988488763197496
+"158","Location B","Control",0.33460836332143
+"159","Location B","Control",1.86928701629052
+"160","Location B","Control",0.404236961637431
+"161","Location B","Control",0.788179018046863
+"162","Location B","Control",1.17740941644993
+"163","Location B","Control",0.229040204702369
+"164","Location B","Control",-0.21737159409475
+"165","Location B","Control",1.72973798261292
+"166","Location B","Control",-1.09463766837756
+"167","Location B","Control",1.10623716083567
+"168","Location B","Control",0.524706635430506
+"169","Location B","Control",1.19885179756769
+"170","Location B","Control",0.798262956632335
+"171","Location B","Control",1.94266525162191
+"172","Location B","Control",-0.327948815554271
+"173","Location B","Control",1.59685035820015
+"174","Location B","Control",1.84870963313404
+"175","Location B","Control",0.503407066011418
+"176","Location B","Control",-1.19167740761383
+"177","Location B","Control",0.829293738803396
+"178","Location B","Control",0.0883748636443317
+"179","Location B","Control",1.04662025650676
+"180","Location B","Control",0.69984933002237
+"181","Location B","Control",1.00986763659587
+"182","Location B","Control",0.720082676757378
+"183","Location B","Control",1.24255340413028
+"184","Location B","Control",0.30393117286311
+"185","Location B","Control",-0.0359059390460328
+"186","Location B","Control",0.0889942559026742
+"187","Location B","Control",-0.690926047610763
+"188","Location B","Control",-0.122783291036945
+"189","Location B","Control",0.114247278718679
+"190","Location B","Control",0.329906328539874
+"191","Location B","Control",0.235325502382304
+"192","Location B","Control",-0.851781190865319
+"193","Location B","Control",-0.0807764914935696
+"194","Location B","Control",1.81344775246987
+"195","Location B","Control",0.929520811783309
+"196","Location B","Control",1.87373510055042
+"197","Location B","Control",0.289216229859397
+"198","Location B","Control",0.437317477711476
+"199","Location B","Control",0.37292859842963
+"200","Location B","Control",-0.327149758062115
+"201","Location B","Treatment 1",-1.13709823217755
+"202","Location B","Treatment 1",1.07038903035574
+"203","Location B","Treatment 1",-0.927307760540296
+"204","Location B","Treatment 1",0.4695437890067
+"205","Location B","Treatment 1",-1.29615519651619
+"206","Location B","Treatment 1",-1.99406746349997
+"207","Location B","Treatment 1",-0.745458031257579
+"208","Location B","Treatment 1",0.211255520374561
+"209","Location B","Treatment 1",0.365814650077903
+"210","Location B","Treatment 1",0.770430263167756
+"211","Location B","Treatment 1",-1.85906407714129
+"212","Location B","Treatment 1",1.04374431425399
+"213","Location B","Treatment 1",-1.03438969307535
+"214","Location B","Treatment 1",-0.379794780454307
+"215","Location B","Treatment 1",-0.115261553914653
+"216","Location B","Treatment 1",-1.12319628026831
+"217","Location B","Treatment 1",-2.01912371617273
+"218","Location B","Treatment 1",-0.864262369503247
+"219","Location B","Treatment 1",-0.436023272715096
+"220","Location B","Treatment 1",-1.18056982410411
+"221","Location B","Treatment 1",-1.20016950578588
+"222","Location B","Treatment 1",-0.248858377366361
+"223","Location B","Treatment 1",-0.607662214791422
+"224","Location B","Treatment 1",-0.169515701257949
+"225","Location B","Treatment 1",-0.54082919577306
+"226","Location B","Treatment 1",-1.18940388545105
+"227","Location B","Treatment 1",0.490669296640922
+"228","Location B","Treatment 1",0.086560229410294
+"229","Location B","Treatment 1",0.299919452433809
+"230","Location B","Treatment 1",-1.57162913890442
+"231","Location B","Treatment 1",0.256948288231091
+"232","Location B","Treatment 1",-1.78878132656806
+"233","Location B","Treatment 1",-0.905362828335869
+"234","Location B","Treatment 1",-1.54292478286874
+"235","Location B","Treatment 1",-2.17801903189153
+"236","Location B","Treatment 1",0.884813114252703
+"237","Location B","Treatment 1",-0.996578992222272
+"238","Location B","Treatment 1",-0.716357726709852
+"239","Location B","Treatment 1",-0.794081698770148
+"240","Location B","Treatment 1",-0.206111819268985
+"241","Location B","Treatment 1",0.716297047170038
+"242","Location B","Treatment 1",0.77767776638278
+"243","Location B","Treatment 1",-1.39954085505272
+"244","Location B","Treatment 1",-1.53242751270803
+"245","Location B","Treatment 1",-1.64962980398796
+"246","Location B","Treatment 1",-1.45235972352059
+"247","Location B","Treatment 1",0.98911137863066
+"248","Location B","Treatment 1",-0.494189137179097
+"249","Location B","Treatment 1",-1.14038755016812
+"250","Location B","Treatment 1",-0.956881679915785
+"251","Location B","Treatment 2",1.33807833700202
+"252","Location B","Treatment 2",0.703266311371884
+"253","Location B","Treatment 2",0.254867855465903
+"254","Location B","Treatment 2",-0.0847114744768006
+"255","Location B","Treatment 2",-0.172514697154929
+"256","Location B","Treatment 2",2.09747143637781
+"257","Location B","Treatment 2",1.23313766053843
+"258","Location B","Treatment 2",2.06677595041397
+"259","Location B","Treatment 2",0.171328613523825
+"260","Location B","Treatment 2",0.22634914994467
+"261","Location B","Treatment 2",-0.30135686650767
+"262","Location B","Treatment 2",0.304595081158172
+"263","Location B","Treatment 2",0.868050383571216
+"264","Location B","Treatment 2",1.55997306037853
+"265","Location B","Treatment 2",0.940051510093239
+"266","Location B","Treatment 2",0.855664470575353
+"267","Location B","Treatment 2",1.46014385715631
+"268","Location B","Treatment 2",1.39476674122715
+"269","Location B","Treatment 2",0.583146471923386
+"270","Location B","Treatment 2",-0.110986992466726
+"271","Location B","Treatment 2",1.46813586512035
+"272","Location B","Treatment 2",0.608309566900741
+"273","Location B","Treatment 2",1.83429263882453
+"274","Location B","Treatment 2",0.164100039716066
+"275","Location B","Treatment 2",-0.314499073123106
+"276","Location B","Treatment 2",0.919312029172812
+"277","Location B","Treatment 2",-0.0222770699771784
+"278","Location B","Treatment 2",0.998268376921881
+"279","Location B","Treatment 2",-0.844712070904202
+"280","Location B","Treatment 2",-0.859095462665907
+"281","Location B","Treatment 2",1.03804725516074
+"282","Location B","Treatment 2",0.758151278195304
+"283","Location B","Treatment 2",1.17943281297948
+"284","Location B","Treatment 2",-1.07267155412648
+"285","Location B","Treatment 2",1.44581170073808
+"286","Location B","Treatment 2",1.43638586508111
+"287","Location B","Treatment 2",1.30501329422964
+"288","Location B","Treatment 2",1.11339999981823
+"289","Location B","Treatment 2",2.14585734074783
+"290","Location B","Treatment 2",-0.633971680514365
+"291","Location B","Treatment 2",0.0451789984580934
+"292","Location B","Treatment 2",0.819584706389238
+"293","Location B","Treatment 2",-0.129445675623106
+"294","Location B","Treatment 2",0.566729343866516
+"295","Location B","Treatment 2",1.082069671539
+"296","Location B","Treatment 2",-0.00986498783824563
+"297","Location B","Treatment 2",1.01254266697553
+"298","Location B","Treatment 2",0.928929203307573
+"299","Location B","Treatment 2",-0.129248899577484
+"300","Location B","Treatment 2",-0.277956179475463
+"301","LocationC","Control",-0.769546732735906
+"302","LocationC","Control",-0.234020578302773
+"303","LocationC","Control",0.207030572993001
+"304","LocationC","Control",-0.921705508732106
+"305","LocationC","Control",0.1566262610291
+"306","LocationC","Control",0.0240991556813052
+"307","LocationC","Control",0.0683341852898174
+"308","LocationC","Control",0.893288170172213
+"309","LocationC","Control",-0.97508593246239
+"310","LocationC","Control",1.01389497767191
+"311","LocationC","Control",-0.595825276908113
+"312","LocationC","Control",-0.904974856668589
+"313","LocationC","Control",-0.573086792026382
+"314","LocationC","Control",0.202121895716972
+"315","LocationC","Control",0.121636565324477
+"316","LocationC","Control",-0.246125143742736
+"317","LocationC","Control",-0.762413864726498
+"318","LocationC","Control",-0.518594249158776
+"319","LocationC","Control",0.979450899424468
+"320","LocationC","Control",0.159849286386376
+"321","LocationC","Control",-0.462786977487977
+"322","LocationC","Control",-0.753840586782031
+"323","LocationC","Control",-0.162982543729596
+"324","LocationC","Control",-1.33317987202413
+"325","LocationC","Control",-0.387564087320793
+"326","LocationC","Control",-0.592858128577276
+"327","LocationC","Control",0.928492623393068
+"328","LocationC","Control",0.809653699947387
+"329","LocationC","Control",-0.0576627792692478
+"330","LocationC","Control",-0.909425838479458
+"331","LocationC","Control",0.720499783186136
+"332","LocationC","Control",0.681416357673777
+"333","LocationC","Control",0.582172139323584
+"334","LocationC","Control",0.589201716550888
+"335","LocationC","Control",-0.281703693556553
+"336","LocationC","Control",0.564412410788411
+"337","LocationC","Control",1.04028639098566
+"338","LocationC","Control",0.0306016113154169
+"339","LocationC","Control",-0.783427015997023
+"340","LocationC","Control",0.635008984698027
+"341","LocationC","Control",0.629205497607559
+"342","LocationC","Control",-0.24837050476744
+"343","LocationC","Control",1.35910787644728
+"344","LocationC","Control",-0.635674966839425
+"345","LocationC","Control",0.278750172944022
+"346","LocationC","Control",-1.81232085881422
+"347","LocationC","Control",-0.129764223222597
+"348","LocationC","Control",0.904691993167111
+"349","LocationC","Control",-0.364436781008366
+"350","LocationC","Control",-0.719333052431098
+"351","LocationC","Treatment 1",0.625081455488874
+"352","LocationC","Treatment 1",-0.696119175604102
+"353","LocationC","Treatment 1",0.2296931997215
+"354","LocationC","Treatment 1",-1.49404679105889
+"355","LocationC","Treatment 1",-1.21382561679563
+"356","LocationC","Treatment 1",-0.390054055029499
+"357","LocationC","Treatment 1",-0.890522496816532
+"358","LocationC","Treatment 1",1.17144288820299
+"359","LocationC","Treatment 1",0.789012793798519
+"360","LocationC","Treatment 1",-0.675222258526076
+"361","LocationC","Treatment 1",0.493225628906648
+"362","LocationC","Treatment 1",0.789648738654484
+"363","LocationC","Treatment 1",0.220407054767723
+"364","LocationC","Treatment 1",0.302691238106311
+"365","LocationC","Treatment 1",1.00993012710221
+"366","LocationC","Treatment 1",-0.413527882748715
+"367","LocationC","Treatment 1",-0.360193561036617
+"368","LocationC","Treatment 1",0.821397010769502
+"369","LocationC","Treatment 1",-1.10854568541517
+"370","LocationC","Treatment 1",0.160129792444537
+"371","LocationC","Treatment 1",-0.0269399316746158
+"372","LocationC","Treatment 1",0.40170368646805
+"373","LocationC","Treatment 1",0.88080999981592
+"374","LocationC","Treatment 1",0.22992826892158
+"375","LocationC","Treatment 1",0.199370448459772
+"376","LocationC","Treatment 1",0.642929519489271
+"377","LocationC","Treatment 1",1.04667891905083
+"378","LocationC","Treatment 1",0.32968817684471
+"379","LocationC","Treatment 1",-0.849725426569226
+"380","LocationC","Treatment 1",-0.134893502769278
+"381","LocationC","Treatment 1",1.49256028597336
+"382","LocationC","Treatment 1",-0.30297654273007
+"383","LocationC","Treatment 1",0.592230437948127
+"384","LocationC","Treatment 1",1.05298924239036
+"385","LocationC","Treatment 1",0.683094820841
+"386","LocationC","Treatment 1",-0.00550606264268715
+"387","LocationC","Treatment 1",0.188469546243612
+"388","LocationC","Treatment 1",-0.762358825864628
+"389","LocationC","Treatment 1",0.378193850579856
+"390","LocationC","Treatment 1",-0.762295185572367
+"391","LocationC","Treatment 1",-0.734283870745276
+"392","LocationC","Treatment 1",-0.851395124443711
+"393","LocationC","Treatment 1",-0.559754853754549
+"394","LocationC","Treatment 1",0.906394128024847
+"395","LocationC","Treatment 1",-0.336155108750514
+"396","LocationC","Treatment 1",-0.0607042985046689
+"397","LocationC","Treatment 1",-0.397363696167459
+"398","LocationC","Treatment 1",0.465181109611625
+"399","LocationC","Treatment 1",0.801206074996791
+"400","LocationC","Treatment 1",-0.179975936879216
+"401","LocationC","Treatment 2",0.512400540231876
+"402","LocationC","Treatment 2",-0.336214335535481
+"403","LocationC","Treatment 2",0.874076123115137
+"404","LocationC","Treatment 2",0.499895924373337
+"405","LocationC","Treatment 2",0.844492776740818
+"406","LocationC","Treatment 2",0.50477887394998
+"407","LocationC","Treatment 2",0.171590876220601
+"408","LocationC","Treatment 2",-1.57511365218903
+"409","LocationC","Treatment 2",-0.566543750292956
+"410","LocationC","Treatment 2",0.399510884822471
+"411","LocationC","Treatment 2",-0.384315761542042
+"412","LocationC","Treatment 2",-0.232185607497414
+"413","LocationC","Treatment 2",-0.343362819977456
+"414","LocationC","Treatment 2",1.34357621242528
+"415","LocationC","Treatment 2",-0.598476240016961
+"416","LocationC","Treatment 2",-0.376067320582314
+"417","LocationC","Treatment 2",0.0118334434737259
+"418","LocationC","Treatment 2",0.179084635592111
+"419","LocationC","Treatment 2",0.156762262093278
+"420","LocationC","Treatment 2",-0.0416232502981377
+"421","LocationC","Treatment 2",-1.24119829449261
+"422","LocationC","Treatment 2",0.305305334851886
+"423","LocationC","Treatment 2",0.429229538405728
+"424","LocationC","Treatment 2",-0.401998435992357
+"425","LocationC","Treatment 2",0.560130161216231
+"426","LocationC","Treatment 2",-0.632832342342615
+"427","LocationC","Treatment 2",0.320441246395678
+"428","LocationC","Treatment 2",-0.551122776053253
+"429","LocationC","Treatment 2",-1.43120568197804
+"430","LocationC","Treatment 2",0.959744835821582
+"431","LocationC","Treatment 2",0.575610469593229
+"432","LocationC","Treatment 2",0.118819775619034
+"433","LocationC","Treatment 2",1.23903525494998
+"434","LocationC","Treatment 2",-1.35468738753472
+"435","LocationC","Treatment 2",0.106112199376624
+"436","LocationC","Treatment 2",-1.99504089351795
+"437","LocationC","Treatment 2",1.19846045212059
+"438","LocationC","Treatment 2",-0.729481231755561
+"439","LocationC","Treatment 2",-1.08434381158899
+"440","LocationC","Treatment 2",-0.728075163847102
+"441","LocationC","Treatment 2",-0.966435781376324
+"442","LocationC","Treatment 2",-1.64534857444596
+"443","LocationC","Treatment 2",-0.821653714936792
+"444","LocationC","Treatment 2",-0.125898218967698
+"445","LocationC","Treatment 2",0.757380636238475
+"446","LocationC","Treatment 2",0.338365940842944
+"447","LocationC","Treatment 2",-1.03101303142019
+"448","LocationC","Treatment 2",-0.533436361869376
+"449","LocationC","Treatment 2",1.60210226172487
+"450","LocationC","Treatment 2",0.340465472131783
